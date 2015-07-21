@@ -2,7 +2,8 @@
 title: Lyuha's Log
 baseurl: "/blog"
 url: "http://blog.lyuha.me" # the base hostname & protocol for your site
-github_username:  lyuha
+github_username: lyuha
+timezone: Asia/Seoul
 
 # Build settings
 markdown: kramdown
