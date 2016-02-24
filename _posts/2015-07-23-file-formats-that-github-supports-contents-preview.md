@@ -2,9 +2,9 @@
 layout: post
 title: "Github에서 미리보기 지원하는 파일 목록"
 categories:
-tags: 
+tags:
 ---
-github blog에서 [Improving map data on GitHub](https://github.com/blog/2041-improving-map-data-on-github)를 멍하니 보니 GeoJSON도 고칠 수 있었다. 중간에 PDF viewing에 관한 내용도 있었다. 그러면 "지원하는 파일이 얼마나 있을까?"라는 의문이 들었다. 그래서 [github blog new feature](https://github.com/blog/category/ship)의 글들을 대충 훑어보았다. 그리고 github에서 공식지원하는 문서들을 정리해보았다.
+github blog를 쭉 훝어보니 [Improving map data on GitHub](https://github.com/blog/2041-improving-map-data-on-github)를 보니 GeoJSON도 고칠 수 있었다. 중간에 PDF viewing에 관한 내용도 있었다. 그래서 [Github blog new feature](https://github.com/blog/category/ship)의 글들을 읽고 github에서 공식지원하는 파일 형태를 정리해보았다.
 
 ## Format List
 
@@ -17,7 +17,7 @@ github blog에서 [Improving map data on GitHub](https://github.com/blog/2041-im
   * Org
   * Ceole
   * MediaWiki
-  * Pod                                    
+  * Pod
 * SVG
 * GeoJSON
 * TopoJSON
@@ -37,7 +37,6 @@ github blog에서 [Improving map data on GitHub](https://github.com/blog/2041-im
   * [Markdown'd, Textile'd Readmes](https://github.com/blog/19-markdown-d-textile-d-readmes)
 * SVG
   * [SVG Viewing & Diffing](https://github.com/blog/1902-svg-viewing-diffing)
-
 * Geo
   * [There's a map for that](https://github.com/blog/1528-there-s-a-map-for-that)
   * [View GeoJSON/TopoJSON Source](https://github.com/blog/1865-view-geojson-topojson-source)
@@ -67,7 +66,6 @@ github blog에서 [Improving map data on GitHub](https://github.com/blog/2041-im
 * GeoJson : [Leaflet.js](http://leafletjs.com/)
 * STL : [Three.js](threejs.org)
 
-## 삽질
+## 의미없다..
 
-반쯤 끝내고 나니 [Github Help:Working with non-code files](https://help.github.com/categories/working-with-non-code-files/) 카테고리가 있는 걸 알았다. OTL..
-결국 삽질로 끝내기 싫어서 언급된 라이브러리도 정리했다. 결국 얻어낸 제일 큰 보상은 help 문서에 다 있었다는 깨달음.........
+반쯤 진행했을 때 [Github Help:Working with non-code files](https://help.github.com/categories/working-with-non-code-files/)가 있는 것을 발견했다. 그냥 의미없는 일로 놔두긴 아쉬워서 끝까지 다 정리해보았다. 이 일로 얻은 건 공식적으로 정리된 링크를 발견한 것.
